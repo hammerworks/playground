@@ -1,8 +1,11 @@
-//test file
-
-#include "test.h"
+// arduino bare minimum sketch
 
 void setup()
 {
 
+}
+
+void loops()
+{
+  
 }
